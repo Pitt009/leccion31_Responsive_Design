@@ -61,7 +61,7 @@ a:hover{
  .contenedorDeParrafoImagen{
    display: flex;
    justify-content: center;
-   
+
  }
   .contenedorDeParrafoImagen img{
     display: flex;
@@ -74,9 +74,16 @@ a:hover{
     padding: 20px;
   }
 
-
-
-}
  .parrafo_seccion2{
    justify-content: flex-end;
+ }
+
+ /* ----- Seccion 3 video ----*/
+.seccion_video{
+  background-color: #A473B9;
+  padding-bottom: 5%;
+}
+ .contenedor_video{
+   display: flex;
+   justify-content: center;
  }
