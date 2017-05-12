@@ -93,7 +93,7 @@ a:hover{
  /* ----- Seccion 4 Formulario ---- */
 
  .contenedor_formulario{
-   background-color: #91B1C7;
+   background-color: #06C47F;
 
 
 
@@ -126,4 +126,14 @@ button{
   width: 10%;
   padding: 1%;
   margin-bottom: 3%;
+}
+
+/* ----- Seccion Footer --- */
+footer{
+  padding: 3%;
+  background-color: #49434D;
+  color: #FFF;
+  font-size: 220%;
+  display: flex;
+  justify-content: center;
 }
