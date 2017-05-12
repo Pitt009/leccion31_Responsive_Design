@@ -58,3 +58,25 @@ a:hover{
   padding: 5%;
   margin: 0;
 }
+ .contenedorDeParrafoImagen{
+   display: flex;
+   justify-content: center;
+   
+ }
+  .contenedorDeParrafoImagen img{
+    display: flex;
+    width: 30%;
+    height: 30%;
+  }
+  .contenedorDeParrafoImagen p{
+    display: flex;
+    font-size: 200%;
+    padding: 20px;
+  }
+
+
+
+}
+ .parrafo_seccion2{
+   justify-content: flex-end;
+ }
