@@ -29,3 +29,24 @@ a:hover{
   border-radius: 30%;
 
 }
+ /* Seccion 1 ------ */
+
+ #home{
+   background-image: url("../images/home.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 500px;
+
+ }
+
+ h1{
+   color: #7D3C98;
+   font-size: 500%;
+
+}
+
+
+ }
